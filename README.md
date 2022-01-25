@@ -23,6 +23,7 @@ Meu Nome é Juliana 👋
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
 ## 📫 Social: 
 <a href="https://www.linkedin.com/in/juliana-salazar-b359b2189/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
