@@ -18,7 +18,7 @@ Meu Nome é Juliana 👋
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![UiPath](https://img.shields.io/badge/-UiPath -05122A?style=flat&logo=uipath)
+![UiPath](https://img.shields.io/badge/-UiPath-05122A?style=flat&logo=uipath)&nbsp;
 ![Power Apps](https://img.shields.io/badge/-Power Apps -333333?style=flat&logo=powerapps)
 ![Power Automate](https://img.shields.io/badge/-Power Automate-05122A?style=flat&logo=powerautomate&logoColor=FFA518)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
