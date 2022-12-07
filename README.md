@@ -28,6 +28,21 @@ Meu nome é Juliana Salazar 👋
 ![Azure DevOps](https://img.shields.io/badge/-AzureDevops-05122A?style=flat&logo=azuredevops)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+
+
+### 🚀 Certificações
+•	AZ-104: Microsoft Azure Administrator
+•	SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+•	AZ-900: Microsoft Azure Fundamentals
+•	PL-900: Microsoft Power Platform Fundamentals
+•	AI-900: Microsoft Azure AI Fundamentals
+•	DP-900: Microsoft Azure Data Fundamentals
+•	MS-900: Microsoft 365 Fundamentals
+•	98-382: Introduction to Programming Using JavaScript
+•	98-383: Introduction to Programming Using HTML and CSS
+•	Scrum Foundations Professional Certificate SFP
+
+
 ## 📫 Social: 
 <a target="_blank" href="https://www.linkedin.com/in/juliana-salazar-b359b2189/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a target="_blank" href="mailto:julianalimasalazar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
