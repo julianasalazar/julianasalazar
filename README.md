@@ -31,16 +31,16 @@ Meu nome é Juliana Salazar 👋
 
 
 ### 🚀 Certificações
-•	AZ-104: Microsoft Azure Administrator
-•	SC-900: Microsoft Security, Compliance, and Identity Fundamentals
-•	AZ-900: Microsoft Azure Fundamentals
-•	PL-900: Microsoft Power Platform Fundamentals
-•	AI-900: Microsoft Azure AI Fundamentals
-•	DP-900: Microsoft Azure Data Fundamentals
-•	MS-900: Microsoft 365 Fundamentals
-•	98-382: Introduction to Programming Using JavaScript
-•	98-383: Introduction to Programming Using HTML and CSS
-•	Scrum Foundations Professional Certificate SFP
+•	AZ-104: Microsoft Azure Administrator<br>
+•	SC-900: Microsoft Security, Compliance, and Identity Fundamentals<br>
+•	AZ-900: Microsoft Azure Fundamentals<br>
+•	PL-900: Microsoft Power Platform Fundamentals<br>
+•	AI-900: Microsoft Azure AI Fundamentals<br>
+•	DP-900: Microsoft Azure Data Fundamentals<br>
+•	MS-900: Microsoft 365 Fundamentals<br>
+•	98-382: Introduction to Programming Using JavaScript<br>
+•	98-383: Introduction to Programming Using HTML and CSS<br>
+•	Scrum Foundations Professional Certificate SFP<br>
 
 
 ## 📫 Social: 
