@@ -1,5 +1,5 @@
 ### Hello World🌎
-Meu Nome é Juliana 👋
+Meu nome é Juliana Salazar 👋
 
 
 
@@ -29,9 +29,11 @@ Meu Nome é Juliana 👋
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 📫 Social: 
-<a href="https://www.linkedin.com/in/juliana-salazar-b359b2189/"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="julianalimasalazar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
-  <a href="https://www.instagram.com/julianasallazar/"><img src="https://img.shields.io/badge/-@julianasallazar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/juliana-salazar-b359b2189/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+
+<a href="julianalimasalazar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a> &nbsp;
+
+<a href="https://www.instagram.com/julianasallazar/"><img src="https://img.shields.io/badge/-@julianasallazar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
  
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
