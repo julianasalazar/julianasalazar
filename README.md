@@ -5,9 +5,9 @@ Meu Nome é Juliana 👋
 
 
 
-👨‍💻 Developer Front-End Júnior</br>
+👨‍💻 Developer Full-Stack</br>
 👪 Sou casada</br>
-🎓 Cursando Bacharelado em Ciência da Computação(2019-06/2023)</br>
+🎓 Cursando Bacharelado em Ciência da Computação (12/2023)</br>
 😋 Minha comida favorita é: Estrogonoff de frango.</br>
 
 
